@@ -1,0 +1,34 @@
+C:\Users\TUANDC\AppData\Local\Temporary Projects\demo_form\bin\Debug\demo_form.exe.config
+E:\Data_formVB\demo_form\demo_form\bin\Debug\demo_form.exe.config
+E:\Data_formVB\demo_form\demo_form\bin\Debug\demo_form.exe
+E:\Data_formVB\demo_form\demo_form\bin\Debug\demo_form.pdb
+E:\Data_formVB\demo_form\demo_form\bin\Debug\demo_form.xml
+E:\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.frmMain.resources
+E:\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.frm_SanPham.resources
+E:\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.Resources.resources
+E:\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.vbproj.GenerateResource.Cache
+E:\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.exe
+E:\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.xml
+E:\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.pdb
+C:\Users\Cong\Google Drive\Data_formVB\demo_form\demo_form\bin\Debug\demo_form.exe.config
+C:\Users\Cong\Google Drive\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.exe
+C:\Users\Cong\Google Drive\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.xml
+C:\Users\Cong\Google Drive\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.pdb
+C:\Users\Cong\Google Drive\Data_formVB\demo_form\demo_form\bin\Debug\demo_form.exe
+C:\Users\Cong\Google Drive\Data_formVB\demo_form\demo_form\bin\Debug\demo_form.pdb
+C:\Users\Cong\Google Drive\Data_formVB\demo_form\demo_form\bin\Debug\demo_form.xml
+C:\Users\Cong\Google Drive\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.frmMain.resources
+C:\Users\Cong\Google Drive\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.frm_SanPham.resources
+C:\Users\Cong\Google Drive\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.Resources.resources
+C:\Users\Cong\Google Drive\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.vbproj.GenerateResource.Cache
+C:\Users\Tuandc\Google Drive\Data_formVB\demo_form\demo_form\bin\Debug\demo_form.exe.config
+C:\Users\Tuandc\Google Drive\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.exe
+C:\Users\Tuandc\Google Drive\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.xml
+C:\Users\Tuandc\Google Drive\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.pdb
+C:\Users\Tuandc\Google Drive\Data_formVB\demo_form\demo_form\bin\Debug\demo_form.exe
+C:\Users\Tuandc\Google Drive\Data_formVB\demo_form\demo_form\bin\Debug\demo_form.pdb
+C:\Users\Tuandc\Google Drive\Data_formVB\demo_form\demo_form\bin\Debug\demo_form.xml
+C:\Users\Tuandc\Google Drive\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.frmMain.resources
+C:\Users\Tuandc\Google Drive\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.frm_SanPham.resources
+C:\Users\Tuandc\Google Drive\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.Resources.resources
+C:\Users\Tuandc\Google Drive\Data_formVB\demo_form\demo_form\obj\Debug\demo_form.vbproj.GenerateResource.Cache
